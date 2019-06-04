@@ -1,0 +1,22 @@
+API - An API is a way to communicate to services.
+      It is a way to communicate from one application to another via the defined interface.
+      API is the only way the external users interact with aws services and resources.
+      
+Boto3 is the Amazon Web Services
+software development kit for Python.
+
+Authentication credentials - 
+  Access key 
+  secret key
+  
+To setup Authentication credentials we'll use IAM (Identity and access managment) service. IAM us used to 
+setup access control who can do what? 
+
+  1.Create user
+  2. Create credentials
+  3. dowmload credentials
+  
+
+
+
+ 
